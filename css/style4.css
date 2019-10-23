@@ -6,7 +6,7 @@
 
 body {
     font-family: 'Poppins', sans-serif;
-    background-color: #cdf8cd;
+    background-color:#ffffff;
 }
 
 *
@@ -18,7 +18,7 @@ a, a:hover, a:focus {
 
 .navbar {
     padding: 15px 10px;
-    background: hsl(120, 100%, 90%);
+    background:#dff9de;
     border:none;
     margin-bottom: 40px;
     box-shadow: 1px 1px 3px rgba(0, 0, 0, 0.1);
@@ -47,7 +47,7 @@ i, span {
 #sidebar {
     min-width: 145px;
     max-width: 145px;
-    background: #cdf8cd;
+    background:#dff9de;
     transition: all 0.3s;
 }
 
@@ -97,7 +97,7 @@ i, span {
 
 #sidebar .sidebar-header {
     padding: 20px;
-    background: #cdf8cd;
+    background:#dff9de;
 
 }
 
@@ -241,7 +241,7 @@ ul.CTAs a {
 /* footer*/
 
 #fot {
-    background: #cdf8cd;
+    background:#dff9de;
    
 }
 *
