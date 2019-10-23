@@ -9,7 +9,7 @@ body {
     background-color: #cdf8cd;
 }
 
-
+*
 a, a:hover, a:focus {
     color: inherit;
     text-decoration: none;
@@ -18,7 +18,7 @@ a, a:hover, a:focus {
 
 .navbar {
     padding: 15px 10px;
-    background: #002500;
+    background: hsl(120, 100%, 90%);
     border:none;
     margin-bottom: 40px;
     box-shadow: 1px 1px 3px rgba(0, 0, 0, 0.1);
@@ -47,8 +47,7 @@ i, span {
 #sidebar {
     min-width: 145px;
     max-width: 145px;
-    background: #003b00;
-    color: #00ff00;
+    background: #cdf8cd;
     transition: all 0.3s;
 }
 
@@ -98,7 +97,7 @@ i, span {
 
 #sidebar .sidebar-header {
     padding: 20px;
-    background: #003b00;
+    background: #cdf8cd;
 
 }
 
@@ -118,16 +117,16 @@ i, span {
     display: block;
 }
 #sidebar ul li a:hover {
-    color:#00ff00;
-    background: #008b00;
+    color:##212529;
+    background: #ffffff;
 }
 #sidebar ul li a i {
     margin-right: 10px;
 }
 
 #sidebar ul li > a, a[aria-expanded="true"] {
-    color: #00ff00;
-    background:#003b00;
+    color: #212529;
+    background:#cdf8cd;
 }
 
 
@@ -242,7 +241,7 @@ ul.CTAs a {
 /* footer*/
 
 #fot {
-    background: #003b00;
+    background: #cdf8cd;
    
 }
 *
