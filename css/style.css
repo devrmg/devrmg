@@ -36,7 +36,8 @@ span.text-content {
    border: 3px  ;
   border-radius: 9px;
   font-weight: bold;
-  }
+
+    }
 .image-frame:hover span.text-content {
   opacity: 2;
 	z-index:100;
